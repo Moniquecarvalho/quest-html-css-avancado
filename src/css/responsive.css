@@ -1,0 +1,79 @@
+@media (max-width:768px){
+   body{
+      height: fit-content;
+      background: url('../images/bg-mobile.svg') no-repeat;
+      background-color: hsl(257, 40%, 49%);
+      background-size: contain;
+      padding: 15px 30px;
+      min-height: 100vh;
+   }
+
+   .header{
+      display: flex;
+      width: 100%;
+      font-size: 20px;
+   }
+   
+   .hero{
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+      text-align: center;
+   }
+
+  
+   .hero .description .btn{
+      padding: 12px 80px;
+   }
+
+   .social{
+      justify-content: center;
+      margin-top: 130px;
+   }
+}
+
+@media (max-width:425px){
+   body{
+      height: 100vh;
+      margin: 10px;
+  }
+
+  .header {
+   display: flex;
+   width: 100%;
+   justify-content: flex-start; 
+   align-items: center;
+   padding: 0px; 
+ }
+
+ .header img {
+   width: 120px; /* Reduz o tamanho do logo para se ajustar melhor em telas menores */
+   margin: 5px; /* Reduz o espaçamento do logo */
+ }
+
+  .hero .image{
+      width: 100%;
+      margin: 50px;
+      margin-right: 20px;
+  }
+
+  .footer {
+   justify-content: center; 
+   padding: 80px; 
+ }
+
+ .footer ul {
+   justify-content: space-between; 
+ }
+
+ .footer ul li {
+   padding: 5px; 
+   font-size: 2rem; 
+ }
+
+ .footer ul li a {
+   width: 40px; 
+   height: 40px; 
+ }
+}
+   
