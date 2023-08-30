@@ -11,6 +11,7 @@
   </p>
   <p><b>Versão Web</p>
   <img src="./src/images/web.gif" alt="Gif da tela versão web">
+  </div>
    <br />
    <br />
 
