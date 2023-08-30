@@ -15,12 +15,12 @@
    <br />
    <br />
 
-## Como Usar
+## ☕ Como Usar
 Você pode visualizar a página abrindo o arquivo `index.html` em um navegador da web. Certifique-se de que todos os arquivos CSS, imagens e fontes estejam na mesma pasta ou diretório.
 <br />
 <br />
 
-## Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 - `index.html`: O arquivo principal que contém o conteúdo da página.
 - `src/css/`: A pasta que contém os arquivos CSS para estilizar a página.
@@ -28,19 +28,19 @@ Você pode visualizar a página abrindo o arquivo `index.html` em um navegador d
 - `src/fonts/`: A pasta que contém arquivos de fonte utilizados no projeto.
 <br />
 
-## Tecnologias Utilizadas
+## 🚀  Tecnologias Utilizadas
 
 * HTML
 * CSS
 <br />
 
-## Autor
+## 👩🏽‍💻  Autora
 
 Este projeto foi criado com base no curso do DevQuest.
 <br />
 <br />
 
-## Licença
+## 📝  Licença
 
 Este projeto está sob a licença  [Licença MIT](license.md). Você pode obter mais informações sobre a licença no arquivo LICENSE.
 <br />
