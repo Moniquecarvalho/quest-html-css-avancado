@@ -10,7 +10,7 @@
     <br />
   </p>
   <p><b>Versão Web</p>
-  <img src="./src/images/web.gif" alt="Gif da tela da Agência XYZ versão web">
+  <img src="./src/images/web.gif" alt="Gif da tela versão web">
    <br />
    <br />
 
